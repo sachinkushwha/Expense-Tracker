@@ -178,3 +178,7 @@ th {
     display: flex;
     justify-content: center;
 }
+
+audio{
+    display: none;
+}
